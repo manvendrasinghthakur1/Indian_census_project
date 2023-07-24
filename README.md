@@ -15,3 +15,7 @@ Exploratory Data Analysis (EDA): The project will focus on data exploration and 
 Hypothesis Testing: If applicable, we may conduct hypothesis testing using SQL to validate certain assumptions or investigate significant differences between different demographic groups or regions.
 
 Interpretation of Findings: The SQL-generated results will be carefully analyzed and interpreted, leading to valuable insights and conclusions about various aspects of the Indian population.
+
+
+Gmail:- Manvendrasinghthakur1@gmail.com
+Linkedin:- www.linkedin.com/in/manvendra-singh-thakur-b369b0192
